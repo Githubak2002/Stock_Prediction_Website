@@ -1,0 +1,2 @@
+comand to push to my repo - 
+git push -u origin main

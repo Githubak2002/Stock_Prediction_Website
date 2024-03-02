@@ -1,0 +1,10 @@
+Flask
+numpy
+scikit-learn
+tensorflow
+aiohttp
+asyncio
+textblob
+pandas
+gunicorn
+flask_cors
