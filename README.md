@@ -15,8 +15,7 @@
 -->
 <!-- ========================= TODO's ========================= -->
 
-
-# Stock Data Visualization and Prediction API
+<!-- # Stock Data Visualization and Prediction API
 
 ## Overview
 
@@ -81,4 +80,28 @@ the output will be
 "2024-02-07": "115.00",
 "2024-02-08": "117.50"
 }
-}
+} -->
+
+Full stack stook predection app using 
+- Python
+- Flask
+- React js [Frontend]
+- Tailwind CSS
+- Cleark [For auth]
+- Email js ....
+
+# Full Video - link
+https://photos.app.goo.gl/A4RUZ2eP636hvYHt8
+
+# Screen Shots
+<img width="1101" alt="Landing Pg" src="https://github.com/Githubak2002/Stock_Prediction_Website/assets/109411443/c2095211-2a21-4082-b912-76647d7dd336">
+
+<img width="1102" alt="Stock real time Graph " src="https://github.com/Githubak2002/Stock_Prediction_Website/assets/109411443/09cb5080-03fe-4da0-9fdd-eb3e6ab260b5">
+
+<img width="1100" alt="Compare two stocks real time" src="https://github.com/Githubak2002/Stock_Prediction_Website/assets/109411443/2aaeaa3e-50d0-4702-983b-97ea6dd7fab6">
+
+
+
+
+
+
