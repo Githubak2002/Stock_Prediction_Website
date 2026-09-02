@@ -91,7 +91,7 @@ Full stack stook predection app using
 - Email js ....
 
 # Full Video - link with screen shots
-https://photos.app.goo.gl/C5W3i8QakfsWBN6i7
+https://photos.app.goo.gl/iz2YiNTUCLFdYNTe7
 
 # Screen Shots
 <img width="1101" alt="Landing Pg" src="https://github.com/Githubak2002/Stock_Prediction_Website/assets/109411443/c2095211-2a21-4082-b912-76647d7dd336">
